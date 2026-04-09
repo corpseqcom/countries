@@ -25,6 +25,7 @@ MO:
   ioc:
   iso_long_name: The Macao Special Administrative Region of China
   iso_short_name: Macao
+  ssm_country_name: MACAO
   languages_official:
   - zh
   - pt

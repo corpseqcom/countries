@@ -25,6 +25,7 @@ GN:
   ioc: GUI
   iso_long_name: The Republic of Guinea
   iso_short_name: Guinea
+  ssm_country_name: GUINEA
   languages_official:
   - fr
   - ff

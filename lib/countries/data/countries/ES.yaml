@@ -33,6 +33,7 @@ ES:
   ioc: ESP
   iso_long_name: The Kingdom of Spain
   iso_short_name: Spain
+  ssm_country_name: SPAIN
   languages_official:
   - es
   languages_spoken:

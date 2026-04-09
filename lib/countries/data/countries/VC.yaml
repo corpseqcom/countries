@@ -25,6 +25,7 @@ VC:
   ioc: VIN
   iso_long_name: Saint Vincent and the Grenadines
   iso_short_name: Saint Vincent and the Grenadines
+  ssm_country_name: ST. VINCENT
   languages_official:
   - en
   languages_spoken:

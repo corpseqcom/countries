@@ -25,6 +25,7 @@ GM:
   ioc: GAM
   iso_long_name: The Republic of The Gambia
   iso_short_name: Gambia
+  ssm_country_name: GAMBIA
   iso_short_name_lower_case: Gambia (the)
   languages_official:
   - en

@@ -33,6 +33,7 @@ HU:
   ioc: HUN
   iso_long_name: Hungary
   iso_short_name: Hungary
+  ssm_country_name: HUNGARY
   languages_official:
   - hu
   languages_spoken:

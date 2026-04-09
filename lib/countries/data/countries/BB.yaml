@@ -25,6 +25,7 @@ BB:
   ioc: BAR
   iso_long_name: Barbados
   iso_short_name: Barbados
+  ssm_country_name: BARBADOS
   languages_official:
   - en
   languages_spoken:

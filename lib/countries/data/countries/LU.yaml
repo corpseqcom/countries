@@ -32,6 +32,7 @@ LU:
   ioc: LUX
   iso_long_name: The Grand Duchy of Luxembourg
   iso_short_name: Luxembourg
+  ssm_country_name: LUXEMBORG
   languages_official:
   - fr
   - de

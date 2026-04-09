@@ -25,6 +25,7 @@ TO:
   ioc: TGA
   iso_long_name: The Kingdom of Tonga
   iso_short_name: Tonga
+  ssm_country_name: TONGUA
   languages_official:
   - en
   - to

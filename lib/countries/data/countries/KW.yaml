@@ -31,6 +31,7 @@ KW:
   ioc: KUW
   iso_long_name: The State of Kuwait
   iso_short_name: Kuwait
+  ssm_country_name: KUWAIT
   languages_official:
   - ar
   languages_spoken:

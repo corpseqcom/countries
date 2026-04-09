@@ -25,6 +25,7 @@ GH:
   ioc: GHA
   iso_long_name: The Republic of Ghana
   iso_short_name: Ghana
+  ssm_country_name: GHANA
   languages_official:
   - en
   languages_spoken:

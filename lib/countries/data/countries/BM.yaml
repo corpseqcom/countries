@@ -25,6 +25,7 @@ BM:
   ioc: BER
   iso_long_name: Bermuda
   iso_short_name: Bermuda
+  ssm_country_name: BERMUDA
   languages_official:
   - en
   languages_spoken:

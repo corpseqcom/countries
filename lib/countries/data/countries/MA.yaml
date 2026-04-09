@@ -25,6 +25,7 @@ MA:
   ioc: MAR
   iso_long_name: The Kingdom of Morocco
   iso_short_name: Morocco
+  ssm_country_name: MOROCCO
   languages_official:
   - ar
   languages_spoken:

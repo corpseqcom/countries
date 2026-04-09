@@ -25,6 +25,7 @@ AS:
   ioc: ASA
   iso_long_name: The Territory of American Samoa
   iso_short_name: American Samoa
+  ssm_country_name: AMERICAN SAMOA
   languages_official:
   - en
   - sm

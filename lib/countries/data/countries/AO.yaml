@@ -25,6 +25,7 @@ AO:
   ioc: ANG
   iso_long_name: The Republic of Angola
   iso_short_name: Angola
+  ssm_country_name: ANGOLA
   languages_official:
   - pt
   languages_spoken:

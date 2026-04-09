@@ -25,6 +25,7 @@ KZ:
   ioc: KAZ
   iso_long_name: The Republic of Kazakhstan
   iso_short_name: Kazakhstan
+  ssm_country_name: KAZAKHSTAN
   languages_official:
   - kk
   - ru

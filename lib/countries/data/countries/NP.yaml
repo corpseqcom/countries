@@ -31,6 +31,7 @@ NP:
   ioc: NEP
   iso_long_name: The Federal Democratic Republic of Nepal
   iso_short_name: Nepal
+  ssm_country_name: NEPAL
   languages_official:
   - ne
   languages_spoken:

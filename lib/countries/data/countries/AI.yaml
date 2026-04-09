@@ -25,6 +25,7 @@ AI:
   ioc:
   iso_long_name: Anguilla
   iso_short_name: Anguilla
+  ssm_country_name: ANGUILLA
   languages_official:
   - en
   languages_spoken:

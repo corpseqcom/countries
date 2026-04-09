@@ -25,6 +25,7 @@ AZ:
   ioc: AZE
   iso_long_name: The Republic of Azerbaijan
   iso_short_name: Azerbaijan
+  ssm_country_name: AZERBAIJAN
   languages_official:
   - az
   - hy

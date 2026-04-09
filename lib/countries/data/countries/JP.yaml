@@ -32,6 +32,7 @@ JP:
   ioc: JPN
   iso_long_name: Japan
   iso_short_name: Japan
+  ssm_country_name: JAPAN
   languages_official:
   - ja
   languages_spoken:

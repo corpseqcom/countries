@@ -25,6 +25,7 @@ SO:
   ioc: SOM
   iso_long_name: The Federal Republic of Somalia
   iso_short_name: Somalia
+  ssm_country_name: SOMALIA
   languages_official:
   - so
   - ar

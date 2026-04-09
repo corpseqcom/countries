@@ -30,6 +30,7 @@ SG:
   ioc: SGP
   iso_long_name: The Republic of Singapore
   iso_short_name: Singapore
+  ssm_country_name: SINGAPORE
   languages_official:
   - en
   - ms

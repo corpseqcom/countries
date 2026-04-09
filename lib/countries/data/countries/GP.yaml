@@ -27,6 +27,7 @@ GP:
   ioc:
   iso_long_name: Guadeloupe
   iso_short_name: Guadeloupe
+  ssm_country_name: FRENCH W. INDIES
   languages_official:
   - fr
   languages_spoken:

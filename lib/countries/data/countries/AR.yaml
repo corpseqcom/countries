@@ -32,6 +32,7 @@ AR:
   ioc: ARG
   iso_long_name: The Argentine Republic
   iso_short_name: Argentina
+  ssm_country_name: ARGENTINA
   languages_official:
   - es
   - gn

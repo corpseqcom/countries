@@ -25,6 +25,7 @@ CM:
   ioc: CMR
   iso_long_name: The Republic of Cameroon
   iso_short_name: Cameroon
+  ssm_country_name: CAMERON
   languages_official:
   - en
   - fr

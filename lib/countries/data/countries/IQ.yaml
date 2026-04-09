@@ -25,6 +25,7 @@ IQ:
   ioc: IRQ
   iso_long_name: The Republic of Iraq
   iso_short_name: Iraq
+  ssm_country_name: IRAQ
   languages_official:
   - ar
   languages_spoken:

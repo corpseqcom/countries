@@ -32,6 +32,7 @@ IE:
   ioc: IRL
   iso_long_name: Ireland
   iso_short_name: Ireland
+  ssm_country_name: IRELAND
   languages_official:
   - en
   - ga

@@ -30,6 +30,7 @@ EG:
   ioc: EGY
   iso_long_name: The Arab Republic of Egypt
   iso_short_name: Egypt
+  ssm_country_name: EGYPT
   languages_official:
   - ar
   languages_spoken:

@@ -32,6 +32,7 @@ PT:
   ioc: POR
   iso_long_name: The Portuguese Republic
   iso_short_name: Portugal
+  ssm_country_name: PORTUGAL
   languages_official:
   - pt
   languages_spoken:

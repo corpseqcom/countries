@@ -32,6 +32,7 @@ US:
   ioc: USA
   iso_long_name: The United States of America
   iso_short_name: United States of America
+  ssm_country_name: UNITED STATES OF AMERICA
   iso_short_name_lower_case: United States of America (the)
   languages_official:
   - en

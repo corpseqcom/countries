@@ -32,6 +32,7 @@ CA:
   ioc: CAN
   iso_long_name: Canada
   iso_short_name: Canada
+  ssm_country_name: CANADA
   languages_official:
   - en
   - fr

@@ -25,6 +25,7 @@ VG:
   ioc: IVB
   iso_long_name: The Virgin Islands
   iso_short_name: Virgin Islands (British)
+  ssm_country_name: BRITISH VIRGIN ISLANDS
   languages_official:
   - en
   languages_spoken:

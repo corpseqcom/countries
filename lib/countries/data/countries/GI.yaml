@@ -25,6 +25,7 @@ GI:
   ioc:
   iso_long_name: Gibraltar
   iso_short_name: Gibraltar
+  ssm_country_name: GIBRALTAR
   languages_official:
   - en
   languages_spoken:

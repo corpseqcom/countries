@@ -28,6 +28,7 @@ LI:
   ioc: LIE
   iso_long_name: The Principality of Liechtenstein
   iso_short_name: Liechtenstein
+  ssm_country_name: LIECHTENSTEIN
   languages_official:
   - de
   languages_spoken:

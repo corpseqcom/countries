@@ -25,6 +25,7 @@ PK:
   ioc: PAK
   iso_long_name: The Islamic Republic of Pakistan
   iso_short_name: Pakistan
+  ssm_country_name: PAKISTAN
   languages_official:
   - en
   - ur

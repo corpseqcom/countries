@@ -26,6 +26,7 @@ PA:
   ioc: PAN
   iso_long_name: The Republic of Panamá
   iso_short_name: Panama
+  ssm_country_name: PANAMA
   languages_official:
   - es
   languages_spoken:

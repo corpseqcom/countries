@@ -26,6 +26,7 @@ PS:
   ioc: PLE
   iso_long_name: The State of Palestine
   iso_short_name: Palestine, State of
+  ssm_country_name: PALESTINE
   languages_official:
   - ar
   - he

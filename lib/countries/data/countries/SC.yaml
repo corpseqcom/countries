@@ -25,6 +25,7 @@ SC:
   ioc: SEY
   iso_long_name: The Republic of Seychelles
   iso_short_name: Seychelles
+  ssm_country_name: SEYCHELLES
   languages_official:
   - fr
   - en

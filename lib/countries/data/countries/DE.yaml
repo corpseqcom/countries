@@ -34,6 +34,7 @@ DE:
   ioc: GER
   iso_long_name: The Federal Republic of Germany
   iso_short_name: Germany
+  ssm_country_name: GERMANY (WEST)
   languages_official:
   - de
   languages_spoken:

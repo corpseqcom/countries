@@ -31,6 +31,7 @@
   ioc: NOR
   iso_long_name: The Kingdom of Norway
   iso_short_name: Norway
+  ssm_country_name: NORWAY
   languages_official:
   - nb
   - nn

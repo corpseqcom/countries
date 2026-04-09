@@ -32,6 +32,7 @@ BE:
   ioc: BEL
   iso_long_name: The Kingdom of Belgium
   iso_short_name: Belgium
+  ssm_country_name: BELGIUM
   languages_official:
   - nl
   - fr

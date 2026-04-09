@@ -25,6 +25,7 @@ GA:
   ioc: GAB
   iso_long_name: The Gabonese Republic
   iso_short_name: Gabon
+  ssm_country_name: GABON
   languages_official:
   - fr
   languages_spoken:

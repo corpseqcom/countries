@@ -30,6 +30,7 @@ SY:
   ioc: SYR
   iso_long_name: The Syrian Arab Republic
   iso_short_name: Syrian Arab Republic
+  ssm_country_name: SYRIA
   languages_official:
   - ar
   languages_spoken:

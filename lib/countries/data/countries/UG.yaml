@@ -25,6 +25,7 @@ UG:
   ioc: UGA
   iso_long_name: The Republic of Uganda
   iso_short_name: Uganda
+  ssm_country_name: UGANDA
   languages_official:
   - en
   - sw

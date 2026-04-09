@@ -25,6 +25,7 @@ PE:
   ioc: PER
   iso_long_name: The Republic of Perú
   iso_short_name: Peru
+  ssm_country_name: PERU
   languages_official:
   - es
   languages_spoken:

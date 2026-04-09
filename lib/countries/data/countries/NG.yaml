@@ -25,6 +25,7 @@ NG:
   ioc: NGR
   iso_long_name: The Federal Republic of Nigeria
   iso_short_name: Nigeria
+  ssm_country_name: NIGERIA
   languages_official:
   - en
   languages_spoken:

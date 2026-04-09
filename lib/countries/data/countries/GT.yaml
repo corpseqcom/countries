@@ -25,6 +25,7 @@ GT:
   ioc: GUA
   iso_long_name: The Republic of Guatemala
   iso_short_name: Guatemala
+  ssm_country_name: GUATEMALA
   languages_official:
   - es
   languages_spoken:

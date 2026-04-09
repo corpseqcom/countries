@@ -25,6 +25,7 @@ TH:
   ioc: THA
   iso_long_name: The Kingdom of Thailand
   iso_short_name: Thailand
+  ssm_country_name: THAILAND
   languages_official:
   - th
   languages_spoken:

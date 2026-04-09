@@ -25,6 +25,7 @@ ET:
   ioc: ETH
   iso_long_name: The Federal Democratic Republic of Ethiopia
   iso_short_name: Ethiopia
+  ssm_country_name: ETHIOPIA
   languages_official:
   - am
   languages_spoken:

@@ -25,6 +25,7 @@ NR:
   ioc: NRU
   iso_long_name: The Republic of Nauru
   iso_short_name: Nauru
+  ssm_country_name: NAURA
   languages_official:
   - en
   - na

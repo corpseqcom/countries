@@ -25,6 +25,7 @@ PF:
   ioc:
   iso_long_name: French Polynesia
   iso_short_name: French Polynesia
+  ssm_country_name: TAHITI
   languages_official:
   - fr
   languages_spoken:

@@ -25,6 +25,7 @@ MU:
   ioc: MRI
   iso_long_name: The Republic of Mauritius
   iso_short_name: Mauritius
+  ssm_country_name: MAURITIUS
   languages_official:
   - en
   languages_spoken:

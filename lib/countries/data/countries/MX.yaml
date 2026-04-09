@@ -31,6 +31,7 @@ MX:
   ioc: MEX
   iso_long_name: The United Mexican States
   iso_short_name: Mexico
+  ssm_country_name: MEXICO
   languages_official:
   - es
   languages_spoken:

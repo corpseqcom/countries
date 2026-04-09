@@ -31,6 +31,7 @@ IS:
   ioc: ISL
   iso_long_name: Iceland
   iso_short_name: Iceland
+  ssm_country_name: ICELAND
   languages_official:
   - is
   languages_spoken:

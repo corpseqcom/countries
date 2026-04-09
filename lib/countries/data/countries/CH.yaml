@@ -31,6 +31,7 @@ CH:
   ioc: SUI
   iso_long_name: The Swiss Confederation
   iso_short_name: Switzerland
+  ssm_country_name: SWITZERLAND
   languages_official:
   - de
   - fr

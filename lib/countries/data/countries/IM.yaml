@@ -25,6 +25,7 @@ IM:
   ioc:
   iso_long_name: The Isle of Man
   iso_short_name: Isle of Man
+  ssm_country_name: ISLE OF MAN,BRITAIN
   languages_official:
   - en
   - gv

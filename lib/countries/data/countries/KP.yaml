@@ -25,6 +25,7 @@ KP:
   ioc: PRK
   iso_long_name: The Democratic People's Republic of Korea
   iso_short_name: Korea (Democratic People's Republic of)
+  ssm_country_name: KOREA (DEM. P.R)
   iso_short_name_lower_case: Korea (the Democratic People's Republic of)
   languages_official:
   - ko

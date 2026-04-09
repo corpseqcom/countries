@@ -25,6 +25,7 @@ DZ:
   ioc: ALG
   iso_long_name: The People's Democratic Republic of Algeria
   iso_short_name: Algeria
+  ssm_country_name: ALGERIA
   languages_official:
   - ar
   languages_spoken:

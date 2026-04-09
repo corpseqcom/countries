@@ -25,6 +25,7 @@ SN:
   ioc: SEN
   iso_long_name: The Republic of Senegal
   iso_short_name: Senegal
+  ssm_country_name: SENEGAL
   languages_official:
   - fr
   languages_spoken:

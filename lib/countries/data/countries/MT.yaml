@@ -27,6 +27,7 @@ MT:
   ioc: MLT
   iso_long_name: The Republic of Malta
   iso_short_name: Malta
+  ssm_country_name: MALTA
   languages_official:
   - mt
   - en

@@ -32,6 +32,7 @@ RO:
   ioc: ROU
   iso_long_name: Romania
   iso_short_name: Romania
+  ssm_country_name: RUMANIA
   languages_official:
   - ro
   languages_spoken:

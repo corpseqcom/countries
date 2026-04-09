@@ -25,6 +25,7 @@ KE:
   ioc: KEN
   iso_long_name: The Republic of Kenya
   iso_short_name: Kenya
+  ssm_country_name: KENYA
   languages_official:
   - en
   - sw

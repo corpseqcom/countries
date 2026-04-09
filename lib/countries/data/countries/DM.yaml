@@ -25,6 +25,7 @@ DM:
   ioc: DMA
   iso_long_name: The Commonwealth of Dominica
   iso_short_name: Dominica
+  ssm_country_name: COMMONWEALTH OF DOMINICA
   languages_official:
   - en
   languages_spoken:

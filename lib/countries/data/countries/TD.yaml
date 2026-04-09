@@ -25,6 +25,7 @@ TD:
   ioc: CHA
   iso_long_name: The Republic of Chad
   iso_short_name: Chad
+  ssm_country_name: CHAD
   languages_official:
   - ar
   - fr

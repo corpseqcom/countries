@@ -32,6 +32,7 @@ ID:
   ioc: INA
   iso_long_name: The Republic of Indonesia
   iso_short_name: Indonesia
+  ssm_country_name: INDONESIA
   languages_official:
   - id
   languages_spoken:

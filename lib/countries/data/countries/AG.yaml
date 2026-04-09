@@ -25,6 +25,7 @@ AG:
   ioc: ANT
   iso_long_name: Antigua and Barbuda
   iso_short_name: Antigua and Barbuda
+  ssm_country_name: ANTIGUA
   languages_official:
   - en
   languages_spoken:

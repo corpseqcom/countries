@@ -34,6 +34,7 @@ IT:
   ioc: ITA
   iso_long_name: The Italian Republic
   iso_short_name: Italy
+  ssm_country_name: ITALY
   languages_official:
   - it
   languages_spoken:

@@ -32,6 +32,7 @@ DK:
   ioc: DEN
   iso_long_name: The Kingdom of Denmark
   iso_short_name: Denmark
+  ssm_country_name: DENMARK
   languages_official:
   - da
   languages_spoken:

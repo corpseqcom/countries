@@ -25,6 +25,7 @@ GY:
   ioc: GUY
   iso_long_name: The Co-operative Republic of Guyana
   iso_short_name: Guyana
+  ssm_country_name: GUYANA
   languages_official:
   - en
   languages_spoken:

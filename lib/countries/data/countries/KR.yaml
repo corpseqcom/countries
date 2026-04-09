@@ -32,6 +32,7 @@ KR:
   ioc: KOR
   iso_long_name: The Republic of Korea
   iso_short_name: Korea (Republic of)
+  ssm_country_name: SOUTH KOREA
   iso_short_name_lower_case: Korea (the Republic of)
   languages_official:
   - ko

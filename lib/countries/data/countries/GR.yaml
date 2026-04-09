@@ -32,6 +32,7 @@ GR:
   ioc: GRE
   iso_long_name: The Hellenic Republic
   iso_short_name: Greece
+  ssm_country_name: GREECE
   languages_official:
   - el
   languages_spoken:

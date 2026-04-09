@@ -27,6 +27,7 @@ CY:
   ioc: CYP
   iso_long_name: The Republic of Cyprus
   iso_short_name: Cyprus
+  ssm_country_name: CYPRUS
   languages_official:
   - el
   - tr

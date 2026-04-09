@@ -25,6 +25,7 @@ TN:
   ioc: TUN
   iso_long_name: The Republic of Tunisia
   iso_short_name: Tunisia
+  ssm_country_name: TUNISIA
   languages_official:
   - ar
   - fr

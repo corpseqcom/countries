@@ -25,6 +25,7 @@ CO:
   ioc: COL
   iso_long_name: The Republic of Colombia
   iso_short_name: Colombia
+  ssm_country_name: REPUBLIC OF COLOMBIA
   languages_official:
   - es
   languages_spoken:

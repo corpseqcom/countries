@@ -25,6 +25,7 @@ CL:
   ioc: CHI
   iso_long_name: The Republic of Chile
   iso_short_name: Chile
+  ssm_country_name: CHILE
   languages_official:
   - es
   languages_spoken:

@@ -25,6 +25,7 @@ UZ:
   ioc: UZB
   iso_long_name: The Republic of Uzbekistan
   iso_short_name: Uzbekistan
+  ssm_country_name: UZBEKISTAN
   languages_official:
   - uz
   languages_spoken:

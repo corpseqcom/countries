@@ -30,6 +30,7 @@ JO:
   ioc: JOR
   iso_long_name: The Hashemite Kingdom of Jordan
   iso_short_name: Jordan
+  ssm_country_name: JORDAN
   languages_official:
   - ar
   languages_spoken:

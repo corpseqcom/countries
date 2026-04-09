@@ -25,6 +25,7 @@ BO:
   ioc: BOL
   iso_long_name: The Plurinational State of Bolivia
   iso_short_name: Bolivia (Plurinational State of)
+  ssm_country_name: BOLIVIA
   languages_official:
   - es
   - ay

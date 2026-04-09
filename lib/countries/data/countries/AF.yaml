@@ -25,6 +25,7 @@ AF:
   ioc: AFG
   iso_long_name: The Islamic Republic of Afghanistan
   iso_short_name: Afghanistan
+  ssm_country_name: AFGHANISTAN
   languages_official:
   - ps
   - uz

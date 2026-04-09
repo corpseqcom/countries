@@ -25,6 +25,7 @@ EC:
   ioc: ECU
   iso_long_name: The Republic of Ecuador
   iso_short_name: Ecuador
+  ssm_country_name: EQUADOR
   languages_official:
   - es
   languages_spoken:

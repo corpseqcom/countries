@@ -25,6 +25,7 @@ WS:
   ioc: SAM
   iso_long_name: The Independent State of Samoa
   iso_short_name: Samoa
+  ssm_country_name: WESTERN SAMOA
   languages_official:
   - sm
   - en

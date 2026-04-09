@@ -25,6 +25,7 @@ SV:
   ioc: ESA
   iso_long_name: The Republic of El Salvador
   iso_short_name: El Salvador
+  ssm_country_name: EL SALVADOR
   languages_official:
   - es
   languages_spoken:

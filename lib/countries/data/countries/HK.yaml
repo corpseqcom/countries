@@ -30,6 +30,7 @@ HK:
   ioc: HKG
   iso_long_name: The Hong Kong Special Administrative Region of China
   iso_short_name: Hong Kong
+  ssm_country_name: HONG KONG
   languages_official:
   - en
   - zh

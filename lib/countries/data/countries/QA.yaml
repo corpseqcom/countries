@@ -30,6 +30,7 @@ QA:
   ioc: QAT
   iso_long_name: The State of Qatar
   iso_short_name: Qatar
+  ssm_country_name: QATAR
   languages_official:
   - ar
   languages_spoken:

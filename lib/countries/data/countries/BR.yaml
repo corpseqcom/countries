@@ -31,6 +31,7 @@ BR:
   ioc: BRA
   iso_long_name: The Federative Republic of Brazil
   iso_short_name: Brazil
+  ssm_country_name: BRAZIL
   languages_official:
   - pt
   languages_spoken:

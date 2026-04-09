@@ -32,6 +32,7 @@ AT:
   ioc: AUT
   iso_long_name: The Republic of Austria
   iso_short_name: Austria
+  ssm_country_name: AUSTRIA
   languages_official:
   - de
   languages_spoken:

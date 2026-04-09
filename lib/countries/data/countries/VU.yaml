@@ -25,6 +25,7 @@ VU:
   ioc: VAN
   iso_long_name: The Republic of Vanuatu
   iso_short_name: Vanuatu
+  ssm_country_name: NEW HEBRIDES
   languages_official:
   - bi
   - en

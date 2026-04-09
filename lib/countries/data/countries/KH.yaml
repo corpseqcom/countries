@@ -25,6 +25,7 @@ KH:
   ioc: CAM
   iso_long_name: The Kingdom of Cambodia
   iso_short_name: Cambodia
+  ssm_country_name: KAMPUCHEA
   languages_official:
   - km
   languages_spoken:

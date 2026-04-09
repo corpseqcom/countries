@@ -25,6 +25,7 @@ NI:
   ioc: NCA
   iso_long_name: The Republic of Nicaragua
   iso_short_name: Nicaragua
+  ssm_country_name: NICARAGUA
   languages_official:
   - es
   languages_spoken:

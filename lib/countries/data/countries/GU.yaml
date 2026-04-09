@@ -25,6 +25,7 @@ GU:
   ioc: GUM
   iso_long_name: The Territory of Guam
   iso_short_name: Guam
+  ssm_country_name: GUAM
   languages_official:
   - en
   - ch

@@ -30,6 +30,7 @@ BH:
   ioc: BRN
   iso_long_name: The Kingdom of Bahrain
   iso_short_name: Bahrain
+  ssm_country_name: BAHRAIN
   languages_official:
   - ar
   languages_spoken:

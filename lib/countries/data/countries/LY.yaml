@@ -25,6 +25,7 @@ LY:
   ioc: LBA
   iso_long_name: The State of Libya
   iso_short_name: Libya
+  ssm_country_name: LIBYA
   languages_official:
   - ar
   languages_spoken:

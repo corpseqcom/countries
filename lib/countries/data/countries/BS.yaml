@@ -25,6 +25,7 @@ BS:
   ioc: BAH
   iso_long_name: The Commonwealth of The Bahamas
   iso_short_name: Bahamas
+  ssm_country_name: BAHAMAS
   iso_short_name_lower_case: Bahamas (the)
   languages_official:
   - en

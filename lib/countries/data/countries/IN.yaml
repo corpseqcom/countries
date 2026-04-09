@@ -32,6 +32,7 @@ IN:
   ioc: IND
   iso_long_name: The Republic of India
   iso_short_name: India
+  ssm_country_name: INDIA
   languages_official:
   - hi
   - en

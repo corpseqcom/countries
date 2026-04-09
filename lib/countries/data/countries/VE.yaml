@@ -25,6 +25,7 @@ VE:
   ioc: VEN
   iso_long_name: The Bolivarian Republic of Venezuela
   iso_short_name: Venezuela (Bolivarian Republic of)
+  ssm_country_name: VENEZUELA
   languages_official:
   - es
   languages_spoken:

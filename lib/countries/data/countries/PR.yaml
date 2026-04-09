@@ -25,6 +25,7 @@ PR:
   ioc: PUR
   iso_long_name: The Commonwealth of Puerto Rico
   iso_short_name: Puerto Rico
+  ssm_country_name: PUERTO RICO
   languages_official:
   - es
   - en

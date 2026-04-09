@@ -25,6 +25,7 @@ AD:
   ioc: AND
   iso_long_name: The Principality of Andorra
   iso_short_name: Andorra
+  ssm_country_name: ANDORRA
   languages_official:
   - ca
   languages_spoken:

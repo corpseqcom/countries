@@ -25,6 +25,7 @@ BN:
   ioc: BRU
   iso_long_name: The Nation of Brunei, the Abode of Peace
   iso_short_name: Brunei Darussalam
+  ssm_country_name: BRUNEI
   languages_official:
   - ms
   languages_spoken:

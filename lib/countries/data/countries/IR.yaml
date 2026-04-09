@@ -25,6 +25,7 @@ IR:
   ioc: IRI
   iso_long_name: The Islamic Republic of Iran
   iso_short_name: Iran (Islamic Republic of)
+  ssm_country_name: IRAN
   languages_official:
   - fa
   languages_spoken:

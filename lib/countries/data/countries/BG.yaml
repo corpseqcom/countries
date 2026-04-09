@@ -32,6 +32,7 @@ BG:
   ioc: BUL
   iso_long_name: The Republic of Bulgaria
   iso_short_name: Bulgaria
+  ssm_country_name: BULGARIA
   languages_official:
   - bg
   languages_spoken:

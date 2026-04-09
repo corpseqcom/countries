@@ -25,6 +25,7 @@ GW:
   ioc: GBS
   iso_long_name: The Republic of Guinea-Bissau
   iso_short_name: Guinea-Bissau
+  ssm_country_name: BISSAU
   languages_official:
   - pt
   languages_spoken:

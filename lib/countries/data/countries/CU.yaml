@@ -25,6 +25,7 @@ CU:
   ioc: CUB
   iso_long_name: The Republic of Cuba
   iso_short_name: Cuba
+  ssm_country_name: CUBA
   languages_official:
   - es
   languages_spoken:

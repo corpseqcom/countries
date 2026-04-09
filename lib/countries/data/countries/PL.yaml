@@ -33,6 +33,7 @@ PL:
   ioc: POL
   iso_long_name: The Republic of Poland
   iso_short_name: Poland
+  ssm_country_name: POLAND
   languages_official:
   - pl
   languages_spoken:

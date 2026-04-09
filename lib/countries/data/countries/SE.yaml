@@ -32,6 +32,7 @@ SE:
   ioc: SWE
   iso_long_name: The Kingdom of Sweden
   iso_short_name: Sweden
+  ssm_country_name: SWEDEN
   languages_official:
   - sv
   languages_spoken:

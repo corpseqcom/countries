@@ -30,6 +30,7 @@ TW:
   ioc: TPE
   iso_long_name: Taiwan, Province of China
   iso_short_name: Taiwan, Province of China
+  ssm_country_name: TAIWAN
   iso_short_name_lower_case: Taiwan (Province of China)
   languages_official:
   - zh

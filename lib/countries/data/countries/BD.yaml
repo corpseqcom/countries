@@ -25,6 +25,7 @@ BD:
   ioc: BAN
   iso_long_name: The People's Republic of Bangladesh
   iso_short_name: Bangladesh
+  ssm_country_name: BANGLADESH
   languages_official:
   - bn
   languages_spoken:

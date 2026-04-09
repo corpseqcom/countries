@@ -31,6 +31,7 @@ OM:
   ioc: OMA
   iso_long_name: The Sultanate of Oman
   iso_short_name: Oman
+  ssm_country_name: OMAN
   languages_official:
   - ar
   languages_spoken:

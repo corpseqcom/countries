@@ -25,6 +25,7 @@ NU:
   ioc:
   iso_long_name: Niue
   iso_short_name: Niue
+  ssm_country_name: NIUE
   languages_official:
   - en
   languages_spoken:

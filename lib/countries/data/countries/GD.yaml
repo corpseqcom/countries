@@ -25,6 +25,7 @@ GD:
   ioc: GRN
   iso_long_name: Grenada
   iso_short_name: Grenada
+  ssm_country_name: GRANADA
   languages_official:
   - en
   languages_spoken:

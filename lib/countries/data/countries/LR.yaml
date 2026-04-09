@@ -25,6 +25,7 @@ LR:
   ioc: LBR
   iso_long_name: The Republic of Liberia
   iso_short_name: Liberia
+  ssm_country_name: LIBERIA
   languages_official:
   - en
   languages_spoken:

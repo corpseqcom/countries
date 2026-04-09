@@ -30,6 +30,7 @@ LB:
   ioc: LBN
   iso_long_name: The Lebanese Republic
   iso_short_name: Lebanon
+  ssm_country_name: LEBANON
   languages_official:
   - ar
   - fr

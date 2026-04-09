@@ -25,6 +25,7 @@ AL:
   ioc: ALB
   iso_long_name: The Republic of Albania
   iso_short_name: Albania
+  ssm_country_name: ALBANIA
   languages_official:
   - sq
   languages_spoken:

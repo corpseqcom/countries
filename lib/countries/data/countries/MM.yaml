@@ -25,6 +25,7 @@ MM:
   ioc: MYA
   iso_long_name: The Republic of the Union of Myanmar
   iso_short_name: Myanmar
+  ssm_country_name: MYANMAR
   languages_official:
   - my
   languages_spoken:

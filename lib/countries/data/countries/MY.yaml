@@ -25,6 +25,7 @@ MY:
   ioc: MAS
   iso_long_name: Malaysia
   iso_short_name: Malaysia
+  ssm_country_name: MALAYSIA
   languages_official:
   - ms
   - en

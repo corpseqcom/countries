@@ -25,6 +25,7 @@ ZM:
   ioc: ZAM
   iso_long_name: The Republic of Zambia
   iso_short_name: Zambia
+  ssm_country_name: ZAMBIA
   languages_official:
   - en
   languages_spoken:
