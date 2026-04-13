@@ -4,7 +4,7 @@ module ISO3166
   module CountryFinderMethods
     FIND_BY_REGEX = /^find_(all_)?(country_|countries_)?by_(.+)/
     SEARCH_TERM_FILTER_REGEX = /\(|\)|\[\]|,/
-    ANY_NAME_ATTRIBUTES = %w[iso_long_name iso_short_name unofficial_names translated_names].freeze
+    ANY_NAME_ATTRIBUTES = %w[iso_long_name iso_short_name ssm_country_name unofficial_names translated_names].freeze
 
     # :reek:FeatureEnvy
     def search(query)

@@ -32,6 +32,7 @@ module ISO3166
     'ioc' => nil,
     'iso_long_name' => nil,
     'iso_short_name' => nil,
+    'ssm_country_name' => nil,
     'national_destination_code_lengths' => [],
     'national_number_lengths' => [],
     'national_prefix' => nil,
